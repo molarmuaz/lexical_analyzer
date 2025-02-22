@@ -3,15 +3,15 @@ This project is the first phase of building a simple programming language for my
 
 In this language:
 
-## ginti = int  
-## asharia = float  
-## haq = bool  
-## harf = char  
-## sach = true  
-## jhoot = false  
-## dikhao = print  
-##batao = input  
-### How to run it:
+**ginti** = *int*  
+**asharia** = *float*  
+**haq** = *bool*  
+**harf** = *char*  
+**sach** = *true*  
+**jhoot** = *false*  
+**dikhao** = *print*  
+**batao** = *input*  
+How to run it:
 Compile the program:
 
 ```bash
@@ -20,4 +20,4 @@ javac Main.java //Run it with your .mi file:
 ```bash
 java Main <filename>.mi
 ```
-This is an early step in building a full compiler for this custom language.
+This is an early step in building a full compiler for this custom language. I have also  added operators and parentheses and semi-colons that can be later used for error handling as well such as malformed numbers (3.14.15), or unclosed strings or parentheses, or missing semi colons.
