@@ -3,14 +3,14 @@ This project is the first phase of building a simple programming language for my
 
 In this language:
 
-ginti = int
-asharia = float
-haq = bool
-harf = char
-sach = true
-jhoot = false
-dikhao = print
-batao = input
+<center>ginti = int,
+asharia = float,
+haq = bool,
+harf = char,
+sach = true,
+jhoot = false,
+dikhao = print,
+batao = input </center>
 To run the program, follow these steps:
 
 Compile the program:
