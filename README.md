@@ -3,20 +3,21 @@ This project is the first phase of building a simple programming language for my
 
 In this language:
 
-<center>ginti = int,
-asharia = float,
-haq = bool,
-harf = char,
-sach = true,
-jhoot = false,
-dikhao = print,
-batao = input </center>
-To run the program, follow these steps:
-
+ginti = int
+asharia = float
+haq = bool
+harf = char
+sach = true
+jhoot = false
+dikhao = print
+batao = input
+How to run it:
 Compile the program:
+
 ```bash
-javac Main.java
-//Run it with your .mi file:
+javac Main.java //Run it with your .mi file:
+```
+```bash
 java Main <filename>.mi
 ```
 This is an early step in building a full compiler for this custom language.
