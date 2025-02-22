@@ -3,7 +3,7 @@ This project is the first phase of building a simple programming language for my
 
 In this language:
 
-'ginti' = int
+ginti = int
 asharia = float
 haq = bool
 harf = char
