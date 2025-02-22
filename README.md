@@ -3,15 +3,15 @@ This project is the first phase of building a simple programming language for my
 
 In this language:
 
-ginti = int  
-asharia = float
-haq = bool
-harf = char
-sach = true
-jhoot = false
-dikhao = print
-batao = input
-How to run it:
+## ginti = int  
+## asharia = float  
+## haq = bool  
+## harf = char  
+## sach = true  
+## jhoot = false  
+## dikhao = print  
+##batao = input  
+### How to run it:
 Compile the program:
 
 ```bash
