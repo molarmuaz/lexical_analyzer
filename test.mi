@@ -1,0 +1,9 @@
+/* This is a comment */
+
+ginti age = (1+2)/3;
+asharia y = 3.14;
+haq z = sach;
+harf a = 'r';
+
+batao(age);
+dikhao("Hello User");
